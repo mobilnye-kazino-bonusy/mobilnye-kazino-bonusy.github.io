@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: mobilnye-kazino-bonusy.github.io
+Sitemap: https://mobilnye-kazino-bonusy.github.io/sitemap.xml
